@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmartyaChakraborty
-- 👀 I’m interested in learning app development with kotlin and ml with python
-- 🌱 I’m currently learning ml with python
+- 👀 I’m interested in learning app development with Kotlin
+- 🌱 I’m currently learning Kotlin
 - 📫 You can reach me via the following email id- amrtya.chakraborty.ac@gmail.com
 
 <!---
